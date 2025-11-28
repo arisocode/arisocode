@@ -76,6 +76,18 @@ I am also highly interested in emerging technologies. My goals include:
 - Learning **Blockchain** fundamentals and building real-world **Web3** solutions  
 - Understanding decentralized architectures and smart contract development  
 
+## :zap: Actividad reciente
+
+<!--START\_SECTION:activity-->
+
+<!--END\_SECTION:activity-->
+
+
+
+<!--RECENT\_ACTIVITY:start-->
+
+<!--RECENT\_ACTIVITY:last\_update-->
+
 ## 🔗 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariadna%20Cabrera-blue)](https://www.linkedin.com/in/ariadna-sophia-cabrera-carrera-aa35001a8)
