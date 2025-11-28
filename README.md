@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Arisocode, and welcome to my Github profile
 
-![imagen](images/Backend%20Developmetn2.jpg)
+![imagen](images/Backend%20Developer.png)
 
 I am a Backend Developer passionate about building robust, scalable, and elegant systems.
 I love turning ideas into real solutions through clean code, thoughtful architecture, and best practices.
@@ -79,3 +79,5 @@ I am also highly interested in emerging technologies. My goals include:
 ## 🔗 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariadna%20Cabrera-blue)](https://www.linkedin.com/in/ariadna-sophia-cabrera-carrera-aa35001a8)
+
+📧 aricabrerac21@gmail.com
