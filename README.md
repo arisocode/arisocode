@@ -86,4 +86,4 @@ I am also highly interested in emerging technologies. My goals include:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariadna%20Cabrera-blue)](https://www.linkedin.com/in/ariadna-sophia-cabrera-carrera-aa35001a8)
 
 📧 aricabrerac21@gmail.com
-jijijiji
+
