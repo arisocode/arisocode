@@ -1,16 +1,21 @@
 name: Update README
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
-  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: arisocode
+          MAX_LINES: 5
+
