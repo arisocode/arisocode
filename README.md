@@ -77,8 +77,8 @@ I am also highly interested in emerging technologies. My goals include:
 - Understanding decentralized architectures and smart contract development  
 
 ## :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 ## 🔗 Contact me
