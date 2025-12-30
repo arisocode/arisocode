@@ -76,10 +76,6 @@ I am also highly interested in emerging technologies. My goals include:
 - Learning **Blockchain** fundamentals and building real-world **Web3** solutions  
 - Understanding decentralized architectures and smart contract development  
 
-## :zap: Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 
 ## 🔗 Contact me
 
