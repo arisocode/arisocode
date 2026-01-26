@@ -74,8 +74,10 @@ I am also highly interested in emerging technologies. My goals include:
 
 - Exploring and applying **Artificial Intelligence** tools and frameworks  
 - Learning **Blockchain** fundamentals and building real-world **Web3** solutions  
-- Understanding decentralized architectures and smart contract development  
+- Understanding decentralized architectures and smart contract development
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🔗 Contact me
 
