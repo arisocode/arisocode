@@ -66,15 +66,27 @@ These are individual projects I developed for university:
 
 ### 🔹 Poblado Nomina
 
-A web application for a company’s Human Resources department, built with business logic implemented in PL/SQL.
+Integrated payroll system managing employees, contracts, settlements, and related third parties. Entire database logic implemented in PL/SQL for secure, automated, and reliable operations.
 
 👉 [View Repository](https://github.com/arisocode/PayrollProyect)
 
-### 🔹 TraderBosque
+### 🔹 DataBaseATC
 
-A web platform for buying and selling stocks, integrating Software Engineering practices and Software Architecture concepts.
+Desktop Java application with Swing GUI for managing and categorizing pharmacological data. Import, visualize, and export large lists of drugs by ATC code and therapeutic groups.
 
-👉 [View Repository](https://github.com/arisocode/TraderBosque)
+👉 [View Repository](https://github.com/arisocode/DataBaseATC)
+
+### 🔹 ZonaFitGYM
+
+Full-stack Java project using Spring Boot, JSF, and PrimeFaces. Manage gym clients with CRUD operations through console, desktop GUI, and web.
+
+👉 [View Repository](https://github.com/arisocode/ZonaFitGymCRUD)
+
+### 🔹 EnergyDistributionAPI
+
+Backend system built in .NET for processing and analyzing electric power distribution data. Focused on scalable database design, efficient historical data loading, and analytical API exposure.
+
+👉 [View Repository](https://github.com/arisocode/EnergyDistributionAPI)
 
 ## 🌱 Future Vision
 
