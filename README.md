@@ -60,6 +60,8 @@ Methodologies:
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+---
+
 ## 🚀 Featured Projects
 
 These are individual projects I developed for university:
@@ -88,6 +90,8 @@ Backend system built in .NET for processing and analyzing electric power distrib
 
 👉 [View Repository](https://github.com/arisocode/EnergyDistributionAPI)
 
+---
+
 ## 🌱 Future Vision
 
 I am committed to continuously expanding my technical and professional skillset.  
@@ -101,6 +105,7 @@ I am also highly interested in emerging technologies. My goals include:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+---
 
 ## 🔗 Contact me
 
